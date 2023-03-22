@@ -23,21 +23,16 @@
 
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
-|Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[github](https://github.com/satyamrawat625/Face-recognition-attendance-system/)|
-|Random Quotes API|This project provides a free API to give random Quote from one of popular 76000 quotes|[Github](https://github.com/PanwarAyush/Random-Quotes-Api)|[Vercel](https://random-quotes-api-nine.vercel.app/)|
-|Pizza Delivery App|Project under development|[Github](https://github.com/PanwarAyush/pizza-Delivery-)|[Github](https://github.com/PanwarAyush/pizza-Delivery-)|
-|Palindrome Check|Although it does Simple task to check a Palindromic string but it's build with React.js and Node.js|[Github](https://github.com/PanwarAyush/PalindromeCheck--React.js-Node.js-)|[Vercel](https://palindrome-check-react-js-node-js-6wz1-hqnh2993o-panwarayush.vercel.app/)|
-| To Do list | A simple,comprehensive yet with a beautiful UI of To do List app build by ayush panwar|[Github](https://github.com/PanwarAyush/To-do-list-app)|[Github](https://panwarayush.github.io/To-do-list-app/)|  
-| Image Describer| React-Flask(Deep learning) based framework , accurate upto 45% , predicting short description of images trained over fliker 8k dataset.|[github](https://github.com/PanwarAyush/Image-Describer)|[github](https://github.com/PanwarAyush/Image-Describer)| 
-|👨‍💻 EAa-com | (credits- Lama Dev & i added some features) EAa-com is an react🚩 technology based frontend Ecommerce website.|[Repo](https://github.com/PanwarAyush/Eaa-com) | [Vercel](https://eaa-1l5w8muc4-panwarayush.vercel.app/) |
-|📗📕  Student database management system |C++ application with reliable fast queries upto billions of data in a second.| [Repo](https://github.com/PanwarAyush/Student-data-management-in-cpp) | [github](https://github.com/PanwarAyush/Student-data-management-in-cpp)|
-| Datastructures and Algorithms |CPP snippets💥💥 Of Datastructers and Algorithms 📘having efficient implemented Methods in CPP.🚀  | [Repo](https://github.com/PanwarAyush/DSA) | [Github](https://github.com/PanwarAyush/DSA) |
-|Tribute web page| tribute page|[repo](https://github.com/PanwarAyush/TributeWebPage)|[Github](https://panwarayush.github.io/TributeWebPage/)|
-|Technical documentation page| Python for beginners documentation page|[repo](https://github.com/PanwarAyush/technical-documentation)|[Github](https://panwarayush.github.io/technical-documentation/)|
-|urlToPdf|An application used that takes input as web url and convert web page to pdf  with the help of python automation using selenium |[repo](https://github.com/PanwarAyush/UrlToPdf-application)|[Github](https://github.com/PanwarAyush/UrlToPdf-application)|
-|Learn Markdown|Reading comments of this repository might help to build concepts of Github Markdown|[Repo](https://github.com/PanwarAyush/learn-markDown-)|[Github](https://github.com/PanwarAyush/learn-markDown-)|
-|Documentation |Collection of Documentations|[Repo](https://github.com/PanwarAyush/ImportantDocumentation)|[Github](https://github.com/PanwarAyush/ImportantDocumentation)|
-
+|Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system/)|
+|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|
+|Social Media App|Like a social media app , this app allows users to connect with others, like , share . Uses MERN stack with CRUD operations|[Github]( https://github.com/satyamrawat625/social-media-app)|[Github]( https://github.com/satyamrawat625/social-media-app)|
+|Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[link]( https://newsletter-signup-xq29.onrender.com/)|
+|👨‍💻 To Do list |To do list with mongodb database.  Tech used: EJS , Express, NodeJs ,Mongodb |[Github](https://github.com/satyamrawat625/todo-List/)|[link](https://to-do-list-h34e.onrender.com/)|
+|Tourism website| Front-end based website|[Repo](https://github.com/satyamrawat625/tourism-website) |[link](https://satyamrawat625.github.io/tourism-website/) |
+|Movie recommendation system| Used SVM to predict top k movies based on user's current movie choice |[github](https://github.com/satyamrawat625/Movie-recommender-system)|[github](https://github.com/satyamrawat625/Movie-recommender-system)|
+|👨 Weather app | A Weather application that takes city as input from user & displays temperature, weather  |[Github](https://github.com/satyamrawat625/Weather-website/)|[Github](https://to-do-list-h34e.onrender.com/)|
+|📗📕 Payroll management system | 3000+ lines of code ,Features like register,login ,CRUD operations , Different departments| [Repo](https://github.com/satyamrawat625/Payroll-Mngt-System) |[github](https://github.com/satyamrawat625/Payroll-Mngt-System)|
+    
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=satyamrawat625&show_icons=true&locale=en&layout=compact" alt="satyamrawat625" /></p>
 
