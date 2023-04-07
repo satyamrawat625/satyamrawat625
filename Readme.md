@@ -24,7 +24,7 @@
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
 |Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system/)|
-|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|
+|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[link](https://information-sharing-site.onrender.com/)|
 |Social Media App|Like a social media app , this app allows users to connect with others, like , share . Uses MERN stack with CRUD operations|[Github]( https://github.com/satyamrawat625/social-media-app)|[Github]( https://github.com/satyamrawat625/social-media-app)|
 |Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[link]( https://newsletter-signup-xq29.onrender.com/)|
 |👨‍💻 To Do list |To do list with mongodb database.  Tech used: EJS , Express, NodeJs ,Mongodb |[Github](https://github.com/satyamrawat625/todo-List/)|[link](https://to-do-list-h34e.onrender.com/)|
