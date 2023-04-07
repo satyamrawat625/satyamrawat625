@@ -8,15 +8,16 @@
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
 |Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system/)|
-|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[link](https://information-sharing-site.onrender.com/)|
+|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Link](https://information-sharing-site.onrender.com/)|
 |Social Media App|Like a social media app , this app allows users to connect with others, like , share . Uses MERN stack with CRUD operations|[Github]( https://github.com/satyamrawat625/social-media-app)|[Github]( https://github.com/satyamrawat625/social-media-app)|
-|Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[link]( https://newsletter-signup-xq29.onrender.com/)|
-|Portfolio website| My portfolio website |[Github](https://github.com/satyamrawat625/)|[link](https://satyamrawat2048.netlify.app/)|
-|👨‍💻 To Do list |To do list with mongodb database.  Tech used: EJS , Express, NodeJs ,Mongodb |[Github](https://github.com/satyamrawat625/todo-List/)|[link](https://to-do-list-h34e.onrender.com/)|
-|Tourism website| Front-end based website|[Repo](https://github.com/satyamrawat625/tourism-website) |[link](https://satyamrawat625.github.io/tourism-website/) |
-|Movie recommendation system| Used SVM to predict top k movies based on user's current movie choice |[github](https://github.com/satyamrawat625/Movie-recommender-system)|[github](https://github.com/satyamrawat625/Movie-recommender-system)|
+|Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[Link]( https://newsletter-signup-xq29.onrender.com/)|
+|Portfolio website| My portfolio website |[Github](https://github.com/satyamrawat625/)|[Link](https://satyamrawat2048.netlify.app/)|
+|👨‍💻 To Do list |To do list with mongodb database.  Tech used: EJS , Express, NodeJs ,Mongodb |[Github](https://github.com/satyamrawat625/todo-List/)|[Link](https://to-do-list-h34e.onrender.com/)|
+|Food Catering website 🍇🍉🍋🥭| A responsive frontend based food website|[Github](https://github.com/satyamrawat625/Catering-website)|[Link](https://satyamrawat625.github.io/Catering-website/)|
+|Tourism website| A responsive frontend based tourism website|[Github](https://github.com/satyamrawat625/tourism-website) |[Link](https://satyamrawat625.github.io/tourism-website/) |
+|Movie recommendation system| Used SVM to predict top k movies based on user's current movie choice |[Github](https://github.com/satyamrawat625/Movie-recommender-system)|[Github](https://github.com/satyamrawat625/Movie-recommender-system)|
 |👨 Weather app | A Weather application that takes city as input from user & displays temperature, weather  |[Github](https://github.com/satyamrawat625/Weather-website/)|[Github](https://to-do-list-h34e.onrender.com/)|
-|📗📕 Payroll management system | 3000+ lines of code ,Features like register,login ,CRUD operations , Different departments| [Repo](https://github.com/satyamrawat625/Payroll-Mngt-System) |[github](https://github.com/satyamrawat625/Payroll-Mngt-System)|
+|📗📕 Payroll management system | 3000+ lines of code ,Features like register,login ,CRUD operations , Different departments| [Github](https://github.com/satyamrawat625/Payroll-Mngt-System) |[Github](https://github.com/satyamrawat625/Payroll-Mngt-System)|
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
