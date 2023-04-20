@@ -8,7 +8,7 @@
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
 |Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Link](https://youtu.be/ELKBMydi0nk)|
-|Blog web site| Created a full stack MERN web app to create, view, update & delete blogs with login system|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Link](https://youtu.be/hC3b6QLxdQs)|
+|Blog web site| Created a full stack MERN web app to create, view, update & delete blogs with login system|[Github](https://github.com/satyamrawat625/Blog-website)|[Link](https://youtu.be/hC3b6QLxdQs)|
 |Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Link](https://information-sharing-site.onrender.com/)|
 |Social Media App|Like a social media app , this app allows users to connect with others, like , share . Uses MERN stack with CRUD operations|[Github]( https://github.com/satyamrawat625/social-media-app)|[Github]( https://github.com/satyamrawat625/social-media-app)|
 |Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[Link]( https://newsletter-signup-xq29.onrender.com/)|
