@@ -7,7 +7,7 @@
 
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
-|Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system)|[Link](https://youtu.be/ELKBMydi0nk)|
+|Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system-with-DB)|[Link](https://youtu.be/ELKBMydi0nk)|
 |Full stack chat web application| Chat application for group chat , private chat with features of searching ,login , register ,etc |[Github](https://github.com/satyamrawat625/Chat-Application)|[Link](https://chat-application-oham.onrender.com/)|
 |Blog web site| Created a full stack MERN web app to create, view, update & delete blogs with login system|[Github](https://github.com/satyamrawat625/Blog-website)|[Link](https://youtu.be/8HHsAnD-fMw)|
 |Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Link](https://information-sharing-site.onrender.com/)|
