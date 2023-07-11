@@ -8,16 +8,16 @@
 | Name | Description | Source Code | Deployed at |
 |:----:|:------------|:----:|:-----------:|
 |Face Recognition Based Attendance System| Browser based application that recognizes face & marks Attendance using ML|[Github](https://github.com/satyamrawat625/Face-recognition-attendance-system-with-DB)|[Link](https://youtu.be/mxrhNqslyz4)|
-|Full stack chat web application| Chat application for group chat , private chat with features of searching ,login , register ,etc |[Github](https://github.com/satyamrawat625/Chat-Application)|[Link](https://chat-application-oham.onrender.com/)|
+|Full stack chat web application 💬| Chat application for group chat , private chat with features of searching ,login , register ,etc |[Github](https://github.com/satyamrawat625/Chat-Application)|[Link](https://chat-application-oham.onrender.com/)|
 |Blog web site| Created a full stack MERN web app to create, view, update & delete blogs with login system|[Github](https://github.com/satyamrawat625/Blog-website)|[Link](https://youtu.be/8HHsAnD-fMw)|
-|Information sharing platform|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Link](https://information-sharing-site.onrender.com/)|
+|Information sharing platform 📢📝|A platform to allow authenticated users to read & share information|[Github]( https://github.com/satyamrawat625/Information-sharing-site)|[Link](https://information-sharing-site.onrender.com/)|
 |Google Keep Clone|This is a clone of Google Keep made using ReactJs |[Github](https://github.com/satyamrawat625/keeper-app)|[Link](https://keeper-app-five-phi.vercel.app/)|
 |Portfolio website| My portfolio website |[Github](https://github.com/satyamrawat625/)|[Link](https://satyamrawat2048.netlify.app/)|
+|Hotel Booking website 🏩 | Responsive Hotel booking website built using Reactjs |[Github](https://github.com/satyamrawat625/hotel-booking-website)|[Link](https://satyamrawat625.github.io/hotel-booking-website)|
 |Newsletter signup website| A website to signup users for my Newsletters |[Github]( https://github.com/satyamrawat625/Newsletter-signup)|[Link]( https://newsletter-signup-xq29.onrender.com/)|
+|Weather app ☔⛄🌙 | Weather app using openweatherApi & rapidApi built using reactjs |[Github](https://github.com/satyamrawat625/Weather-app-reactjs)|[Link](https://satyamrawat625.github.io/Weather-app-reactjs)|
 |👨‍💻 To Do list |To do list with mongodb database.  Tech used: EJS , Express, NodeJs ,Mongodb |[Github](https://github.com/satyamrawat625/todo-List/)|[Link](https://to-do-list-h34e.onrender.com/)|
 |Food Catering website 🍇🍉🍋🥭| A responsive frontend based food website|[Github](https://github.com/satyamrawat625/Catering-website)|[Link](https://satyamrawat625.github.io/Catering-website/)|
-|Movie recommendation system| Used SVM to predict top k movies based on user's current movie choice |[Github](https://github.com/satyamrawat625/Movie-recommender-system)|[Github](https://github.com/satyamrawat625/Movie-recommender-system)|
-|👨 Weather app | A Weather application that takes city as input from user & displays temperature, weather  |[Github](https://github.com/satyamrawat625/Weather-website/)|[Github](https://to-do-list-h34e.onrender.com/)|
 |📗📕 Payroll management system | 3000+ lines of code ,Features like register,login ,CRUD operations , Different departments| [Github](https://github.com/satyamrawat625/Payroll-Mngt-System) |[Github](https://github.com/satyamrawat625/Payroll-Mngt-System)|
 
 <h3 align="left">Connect with me:</h3>
